@@ -11,11 +11,11 @@ I am a third-year B.Tech Computer Science student at Banasthali Vidyapith with a
 ### 1. Careaawas – Smart De-addiction Center Platform  
 **Tech Stack**: Flutter · Node.js · MySQL · JWT · BLE Services  
 
-Careaawas is a health management platform designed for NGOs, doctors, and patients involved in de-addiction efforts. It features a mobile app integrated with BLE-enabled smartwatches to monitor patients' vitals in real time.
+Careaawas is a de-addiction centers management platform designed for NGOs, doctors, and patients involved in de-addiction efforts. It features a mobile app integrated with BLE-enabled smartwatches to monitor patients' vitals in real time.
 
 **Key Features**:
 - Smartwatch integration for live health data tracking (heart rate, SpO₂, etc.)
-- Backend API built with Node.js and Express
+- Backend API built with Node.js
 - JWT-based authentication system with email token recovery for "Forgot Password"
 - MySQL database for storing structured data
 - Flutter-based responsive mobile frontend
@@ -26,7 +26,7 @@ Careaawas is also our 3rd-year in-house project. We have presented it to several
 ### 2. Shelf – Book Discovery & Price Comparison Platform  
 **Tech Stack**: HTML · CSS · JavaScript  
 
-Shelf is a lightweight web application that helps users discover new books and compare prices across different online retailers. It aims to provide a simplified and user-friendly browsing experience for avid readers.
+Shelf is a web application that helps users discover new books and compare prices across different online retailers. It aims to provide a simplified and user-friendly browsing experience for avid readers.
 
 **Key Features**:
 - Clean UI with responsive design
