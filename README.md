@@ -6,6 +6,22 @@ I am a third-year B.Tech Computer Science student at Banasthali Vidyapith with a
 
 ---
 
+## Professional Experience
+
+### AI Azure Virtual Internship – Edunet Foundation in Collaboration with Microsoft & AICTE  
+**Duration**: May 2025 (4 Weeks)  
+**Focus Areas**: Artificial Intelligence · Azure Cloud · Deep Learning · Computer Vision  
+
+Selected for the prestigious AICTE-certified internship program conducted by Edunet Foundation and Microsoft.  
+Worked under expert mentorship to build and demonstrate real-world AI solutions using Azure services.
+
+**Key Learning & Contributions**:
+- Gained hands-on experience in **Supervised and Unsupervised Learning**, **Regression models**, and **Generative AI**
+- Completed structured coursework via **Microsoft Learn** and LMS portals
+- Participated in weekly virtual sessions and masterclasses with industry mentors
+
+---
+
 ## Projects
 
 ### 1. Careaawas – Smart De-addiction Center Platform  
